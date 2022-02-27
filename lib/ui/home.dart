@@ -6,7 +6,7 @@ import 'package:provider/provider.dart';
 import 'tabs_home/home_tabs.dart';
 import '../helper/constants.dart';
 import '../provider/home_provider.dart';
-import '../widgets/bottom_navigation_items.dart';
+import '../widgets/bottom_navbar_items.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

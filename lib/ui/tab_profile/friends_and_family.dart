@@ -5,8 +5,8 @@ import '../../helper/api.dart';
 import '../../models/relatives.dart';
 import '../../provider/profile_provider.dart';
 import '../../widgets/family_person_tile.dart';
-import '../../widgets/my_dropdown.dart';
-import '../../widgets/my_text_field.dart';
+import '../../widgets/dropdown.dart';
+import '../../widgets/text_field.dart';
 import '../../widgets/tab_switch.dart';
 
 class FriendsAndFamily extends StatefulWidget {
